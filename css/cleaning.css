@@ -269,19 +269,18 @@ header {
 
 .btn-top2 {
     position: relative !important;
-    top: 101px !important;
+    top: 133px !important;
 }
 
 .btn-top3 {
     position: relative !important;
-    top: 69px !important;
+    top: 100px !important;
 }
 
 .btn-top4 {
     position: relative !important;
-    top: 5px !important;
+    top: 100px !important;
 }
-
 .card01:hover {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(212, 206, 206, 0.19) !important;
     transition: 0.1s !important;
